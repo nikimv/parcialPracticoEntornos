@@ -1,0 +1,4 @@
+enotorno_virtual/
+__pycache__/
+.env
+*.pyc
